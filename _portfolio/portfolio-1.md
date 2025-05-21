@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "<a href='/files/Homework_4.html' target='_blank'>Computational Statistics Final Assignment</a>"
+excerpt: "My final project for SDS475. Using linear models, bootstrapping, and bayesian linear models to predict tempuratures near St. Louis."
 collection: portfolio
 ---
 
